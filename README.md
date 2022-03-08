@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JoseVitorGarcia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JoseVitorGarcia/JoseVitorGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I’m José!
+- 📚 I’m currently learning JavaScript, PHP, HTML, CSS, MySQL and Firebase technologies.
+- 👀 I'm interessed in React, Node.js.
+- 📫 How to reach me: josevitorguigarc@gmail.com
